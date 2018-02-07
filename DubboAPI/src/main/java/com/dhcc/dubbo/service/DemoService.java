@@ -9,5 +9,6 @@ import java.util.List;
  *  @date: 2018/2/6  10:15
  */
 public interface DemoService {
+    //测试提交
     List<String> getPermissions(Long id);
 }
